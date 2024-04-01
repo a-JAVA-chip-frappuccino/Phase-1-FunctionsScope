@@ -2,7 +2,7 @@
 
 ## Objectives
 
-By the end of today's lecture, you will be able to define function terminology as well as describe what scope is. You will also know how to code a basic function using normal, anonymous, and arrow syntax.
+By the end of today's lecture, you will be able to define function terminology as well as describe what scope is. You will also know how to code a basic function using named, anonymous, and arrow syntax.
 
 ## Lesson Plan
 

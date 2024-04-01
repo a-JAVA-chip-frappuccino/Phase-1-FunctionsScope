@@ -31,8 +31,8 @@ function sayHello() {
 // sayHello()
 
 function sayHelloToYou(name) {
-    // console.log(`Hello there, ${name}!`)
-    console.log("Hello there, " + name + "!")
+    // console.log(`Hello there, ${name}!`) // string interpolation
+    console.log("Hello there, " + name + "!") // string concatenation
 }
 
 // sayHelloToYou("James")
@@ -100,7 +100,7 @@ console.log(`num2: ${num2}`)
 
 const nums = [1, 2, 3, 4, 5, 6]
 
-// nums.forEach((num) => console.log(num ** (1/2)))
+// nums.forEach((num) => console.log(num ** (1/2))) // performs square root operation
 
 // nums.forEach(function consoleLogNum(num) {
 //     console.log(num)
