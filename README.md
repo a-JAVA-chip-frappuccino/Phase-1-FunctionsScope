@@ -15,7 +15,7 @@ By the end of today's lecture, you will be able to define function terminology a
     - What is the purpose of including the **return statement**?
     - What is the scope of the returned value?
 4. Define an anonymous function that takes in a number and returns its square. Console log the square outside the function definition.
-5. Define an arrow function that that takes in a number and returns its square. Console log the square outside the function definition.
+5. Define an arrow function that that takes in a number and returns its cube. Console log the cube outside the function definition.
     - Is there a more efficient way to write this?
 6. Assign a variable _num1_ to 3 outside a function. Assign another variable _num2_ to 8 inside it. Increment both by 1 and console log both outside the function.
     - Why does _num1_ log but not _num2_? What does this tell us about scope?
